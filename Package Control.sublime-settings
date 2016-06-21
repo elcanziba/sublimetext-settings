@@ -1,0 +1,20 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Package Control",
+		"Emmet",
+		"SublimeLinter",
+		"Git",
+		"Terminal",
+		"Alignment",
+		"Trimmer",
+		"BracketHighlighter",
+		"SideBarEnhancements",
+		"WordPress",
+		"Syntax Highlighting for Sass",
+		"docBlockr"
+	]
+}
