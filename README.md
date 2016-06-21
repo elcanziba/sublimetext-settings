@@ -1,4 +1,4 @@
-# Sublime Text - My Settings for Front End workspace.
+## Sublime Text - My Settings for Front End workspace.
 
 ### Plugins:
 * Package Controller - https://packagecontrol.io/installation
